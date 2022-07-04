@@ -5,8 +5,11 @@
 
 >### [Complete documentation will be updated soon]
 
-<hr> <br>
+<hr>
 
+ `The screen design was done as per the requirement.`
+
+ <br>
 
 >### Loading - Network call [Fetching weather details from the api]
 
