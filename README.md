@@ -1,6 +1,9 @@
-# WeatherInfo [Doc will be updated soon]
+# WeatherInfo 
 
 "WeatherInfo" is an weather and forecast statistics android application that was built as a part of an Android Challenge.
+
+
+>### [Complete documentation will be updated soon]
 
 <hr> <br>
 
